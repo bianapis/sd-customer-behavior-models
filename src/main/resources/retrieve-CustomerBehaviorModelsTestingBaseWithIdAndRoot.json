@@ -1,0 +1,11 @@
+{
+  "customerBehaviorModelTestingTaskRecord" : {},
+  "customerBehaviorModelTestingTaskReference" : "CBTTR74649873",
+  "customerBehaviorModelTestHarnessReference" : "CBMTH209384",
+  "customerBehaviorModelTestReference" : "CBMT089234",
+  "customerBehaviorModelReference" : "CBM1234",
+  "customerBehaviorModelTestType" : "unit",
+  "customerBehaviorModelTestResult" : "customerBehaviorModelTestResult",
+  "customerBehaviorModel" : {},
+  "customerBehaviorModelType" : "customerBehaviorModelType"
+}

@@ -1,0 +1,14 @@
+{
+  "customerBehaviorModelDevelopmentTaskDeliverable" : {},
+  "customerBehaviorModelDevelopmentTaskReference" : "DEV9873",
+  "customerBehaviorModelDevelopmentTaskDescription" : "customerBehaviorModelDevelopmentTaskDescription",
+  "customerBehaviorModelImplementationTaskReference" : "IMP6732",
+  "customerBehaviorModelImplementationTaskRecord" : {},
+  "customerBehaviorModelDevelopmentTaskBudget" : {},
+  "customerBehaviorModelDevelopmentTaskStatus" : "complete",
+  "customerBehaviorModelReference" : "CBM1234",
+  "customerBehaviorModelDevelopmentTaskOrganization" : "customerBehaviorModelDevelopmentTaskOrganization",
+  "customerBehaviorModelStatus" : "under development",
+  "customerBehaviorModel" : {},
+  "customerBehaviorModelType" : "customerBehaviorModelType"
+}

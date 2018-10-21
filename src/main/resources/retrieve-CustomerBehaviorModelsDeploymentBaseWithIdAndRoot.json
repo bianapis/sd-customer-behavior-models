@@ -1,0 +1,11 @@
+{
+  "customerBehaviorModelDeploymentTaskResult" : "Success",
+  "employeeBusinessUnitReference" : "EBU890",
+  "customerBehaviorModelUsage" : "production deployments",
+  "customerBehaviorModelDeploymentTaskReference" : "DEP43268",
+  "customerBehaviorModelVersion" : "v1.0.0",
+  "customerBehaviorModelReference" : "CBM1234",
+  "customerBehaviorModelDeploymentStatus" : "pending",
+  "customerBehaviorModelDeploymentTaskRecord" : {},
+  "customerBehaviorModel" : {}
+}

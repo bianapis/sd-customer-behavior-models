@@ -1,0 +1,18 @@
+{
+  "customerBehaviorModelDesignTaskReference" : "CBDTR7364646",
+  "customerMarketDataReference" : "CMD1020",
+  "customerBehaviorModelReference" : "CBMR735464",
+  "customerBehaviorModelImpact" : "customerBehaviorModelImpact",
+  "customerBehaviorModelDesignTaskRecord" : {},
+  "productServiceActivityReportReference" : "PSAR7836",
+  "customerBehaviorModelFeedbackRecord" : {},
+  "customerBehaviorModelSpecification" : "customerBehaviorModelSpecification",
+  "customerBehaviorModelUsage" : {},
+  "customerBehaviorModelOperationalRequirements" : "customerBehaviorModelOperationalRequirements",
+  "customerBehaviorModelUsageGuidelines" : "customerBehaviorModelUsageGuidelines",
+  "customerBehaviorModelAllowedUsage" : "customerBehaviorModelAllowedUsage",
+  "customerBehaviorModel" : {},
+  "customerMarketDataServiceReference" : "CMDS7182",
+  "productServiceActivityReport" : {},
+  "customerBehaviorModelType" : "customerBehaviorModelType"
+}

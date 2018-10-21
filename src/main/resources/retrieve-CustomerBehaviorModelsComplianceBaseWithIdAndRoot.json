@@ -1,0 +1,10 @@
+{
+  "customerBehaviorModelComplianceTaskReference" : "COMP2302",
+  "complianceTestType" : "complianceTestType",
+  "complianceTestReference" : "CT23874",
+  "customerBehaviorModelReference" : "CBM1234",
+  "customerBehaviorModelComplianceTaskRecord" : {},
+  "complianceTestResult" : {},
+  "customerBehaviorModel" : {},
+  "customerBehaviorModelType" : "customerBehaviorModelType"
+}
